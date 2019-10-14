@@ -1,4 +1,4 @@
-import {createContext} from 'e-context'
+import {createContext} from 'e-context';
 
 const eContext = createContext({
   clicks: 0,

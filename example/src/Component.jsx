@@ -2,12 +2,7 @@ import React from 'react';
 import {Context} from './Context';
 
 export class Component extends React.Component {
-  constructor() {
-    super();
-    this.click = this.click.bind(this);
-  }
-
-  click() {
+  click = () => {
     this.context.store.clicks = Math.random();
   }
 
