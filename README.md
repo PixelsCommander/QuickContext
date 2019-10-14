@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save e-context
+npm install --save quickcontext
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ this.context.store.value = newValue;
 
 Your context module:
 ```tsx
-import {createContext} from 'e-context';
+import {createContext} from 'quickcontext';
 
 const eContext = createContext({
   clicks: 0,
