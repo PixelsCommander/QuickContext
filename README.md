@@ -2,7 +2,7 @@
 
 > ContextAPI state management made easy
 
-[![NPM](https://img.shields.io/npm/v/e-context.svg)](https://www.npmjs.com/package/e-context) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/quickcontext.svg)](https://www.npmjs.com/package/quickcontext) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
