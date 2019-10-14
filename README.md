@@ -59,6 +59,8 @@ export class Component extends React.Component {
 Component.contextType = Context;
 ```
 
+For more information have a look at example.
+
 ## License
 
 MIT © [PixelsCommander](https://github.com/PixelsCommander)
